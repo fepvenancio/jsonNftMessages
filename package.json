@@ -1,0 +1,20 @@
+{
+  "name": "tok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.8.0",
+    "dotenv": "^10.0.0",
+    "ipfs-car": "^0.6.1",
+    "nft.storage": "^5.2.0",
+    "node-fetch": "^3.2.0",
+    "web3.storage": "^3.5.4"
+  },
+  "type": "module"
+}

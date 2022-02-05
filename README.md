@@ -1,6 +1,6 @@
 # jsonNftMessages
 
-This Repo is a Demo of a sample JSON file been created, minted, associated and transfered as an NFT and beeing accessed.
+This Repo is a Demo of a sample JSON file been created, minted, associated, transfered as an NFT and beeing accessed at the end.
 
 To run this code:
 
